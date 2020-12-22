@@ -281,17 +281,20 @@ video{
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
   }
-  .flip-card-front {
+.flip-card-front {
     background-color: white;
   }
-  .flip-card-back {
+.flip-card-back {
     background-color: papayawhip;
     color: black;
     transform: rotateY(180deg);
     line-height: 1.4;
   }
-  .flip-card-focus:focus{
+.flip-card-focus:focus{
     transform: rotateY(180deg);
+}
+.cardtext{
+    font-size: 18px;
 }
   .center{
     display: block;
