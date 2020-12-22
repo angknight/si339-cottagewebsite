@@ -366,6 +366,10 @@ video{
         justify-content: center;
         align-content: stretch;
     }
+    .picsgrid-container img{
+        width: 85%;
+        height: auto;
+    }
     .grid-item1{
         grid-column: 1 /span 1;
         grid-row: 1 /span 1;
