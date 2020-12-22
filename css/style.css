@@ -157,12 +157,6 @@ div.box{
     margin: 10px;
     width: 300px;
   }
-.gal{
-    filter: blur(1px)
-}
-.gal:hover{
-    filter: blur(0)
-}
 
 footer{
     background-color: #FADECB;
