@@ -23,7 +23,7 @@ header{
 }
 
 .nav_item a:hover, a:focus{
-    color: rgb(99, 3, 194);
+    color: rgb(203, 110, 10);
     text-decoration: underline;
 }
 
@@ -157,9 +157,16 @@ div.box{
     margin: 10px;
     width: 300px;
   }
+.gal{
+    min-height: 300px;
+    min-width: 425px;
+}
+.galh{
+    min-width: 200px;
+}
 
 footer{
-    background-color: #FADECB;
+    background: papayawhip;
     color: black;
     font-size: 18px;
     padding: 30px;
