@@ -29,7 +29,7 @@ header{
 
 .nav_item a.selected{
     color:rgb(155, 33, 6);
-    text-decoration: overline;
+    text-decoration: underline;
 }
 
 .skip-link {
