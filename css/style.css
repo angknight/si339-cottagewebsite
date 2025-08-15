@@ -343,10 +343,6 @@ video{
         justify-content: space-evenly;
         align-items: flex-end;
     }
-
-    p{
-        margin: 40px;
-    }
     
     .gallery{
         min-height: 600px;
